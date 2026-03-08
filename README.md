@@ -5,7 +5,7 @@ Full-Stack Developer specializing in **Laravel** and **Vue/Nuxt**. I build and m
 ---
 
 ### 🔭 Currently working on
-A multi-tenant SaaS platform at **Geeked Asia / CreativeX** — real-time chat systems, A/B testing, analytics dashboards, and multi-brand frontends.
+A multi-tenant SaaS platform at **CreativeX** — real-time chat systems, A/B testing, analytics dashboards, and multi-brand frontends.
 
 ---
 
