@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Cedric 👋
 
-<!--
-**creaser4/creaser4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer specializing in **Laravel** and **Vue/Nuxt**. I build and maintain production SaaS platforms — from database design and APIs to branded frontends.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on
+A multi-tenant SaaS platform at **Geeked Asia / CreativeX** — real-time chat systems, A/B testing, analytics dashboards, and multi-brand frontends.
+
+---
+
+### 🛠️ Tech I use
+**Backend:** PHP, Laravel, MySQL, Pest PHP, PHPStan (Level 10), Pusher  
+**Frontend:** Vue 2, Nuxt 2, Vuex, SCSS, Tailwind CSS 
+**Tooling:** Docker, Git, Laravel Echo
+
+---
+
+### 📫 Reach me
+- romasoccedric561@gmail.com  
+- [linkedin.com/in/cedric-romasoc](https://linkedin.com/in/cedric-romasoc)
+
