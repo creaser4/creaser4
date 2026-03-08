@@ -4,11 +4,6 @@ Full-Stack Developer specializing in **Laravel** and **Vue/Nuxt**. I build and m
 
 ---
 
-### 🔭 Currently working on
-A multi-tenant SaaS platform at **CreativeX** — real-time chat systems, A/B testing, analytics dashboards, and multi-brand frontends.
-
----
-
 ### 🛠️ Tech I use
 **Backend:** PHP, Laravel, MySQL, Pest PHP, PHPStan (Level 10), Pusher  
 **Frontend:** Vue 2, Nuxt 2, Vuex, SCSS, Tailwind CSS 
